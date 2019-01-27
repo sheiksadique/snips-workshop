@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 from hermes_python.hermes import Hermes
 
-INTENT_HOW_ARE_YOU = "sheiksadique:how_are_you"
+INTENT_HOW_ARE_YOU = "sheiksadique:yolo_man"
 INTENT_GOOD = "sheiksadique:feeling_good"
 INTENT_BAD = "sheiksadique:feeling_bad"
 INTENT_ALRIGHT = "sheiksadique:feeling_alright"
